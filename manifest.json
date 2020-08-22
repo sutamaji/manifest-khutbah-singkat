@@ -1,0 +1,38 @@
+{
+  "name": "Khutbah Singkat",
+  "short_name": "Khutbah Singkat",
+  "start_url": "https://www.khutbahsingkat.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-t3gRFkH1Jbc/X0BkFiVmvrI/AAAAAAAABIs/eIbjOTEdCRwkilti8cj7APifGTK0X_vAgCLcBGAsYHQ/s48/icon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZjtGFiMjgrs/X0BkF6RR4wI/AAAAAAAABIw/FYMw80jC03UXKlhzLNcQlU3geDNPOKe3ACLcBGAsYHQ/s72/icon72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fXcbb2zhLYE/X0BkGWjNW6I/AAAAAAAABI4/UQfNquQ-6PQMf60V8PD7iPSzZne2wSwOgCLcBGAsYHQ/s96/icon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T9s3Y4-9tSw/X0BkFMGhjOI/AAAAAAAABIk/HIXDMWbYdUEUcd0C7NcR4SGxJ83PkeczQCLcBGAsYHQ/s144/icon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_z4k8I-7n1g/X0BkEyfT32I/AAAAAAAABIg/S7mmYD7adJo08gKlM7j9e8GVa91sv5T6gCLcBGAsYHQ/s168/icon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-blahXLFsEm8/X0BkFLTlKqI/AAAAAAAABIo/Dsk_B_58h5gGhxA_LqUsptpUDkRfaWkJQCLcBGAsYHQ/s192/icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OMOoiXIyKOM/X0BkF0vkPFI/AAAAAAAABI0/0K9qe5rTX2gQ0C4KegfrlrJWrNDjbh9GQCLcBGAsYHQ/s512/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
